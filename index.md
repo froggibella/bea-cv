@@ -80,20 +80,26 @@ __Robert Bosch GmbH, Nuremberg__
 
 ## Skills
 
-`*********`
+`**********`
 SQL, Stored PRocedures
 
-`********`
+`*********`
 Reporting Tools (Qlik, MSTR, etc.)
 
+`*********`
+Git, Jira, ZenHub
+
+`********`
+Jupyter, Databricks
+
 `*******`
-Python (Pandas)
+Python (mainly Pandas)
 
 `******`
 R, Stata, SPSS
 
 `****`
-JS, PHP, C
+JS, PHP, C, Spark
 
 ### Languages
 
