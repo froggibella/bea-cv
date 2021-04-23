@@ -26,8 +26,8 @@ with ... __TODO: complete the sentence__
 
 ### Interests
 
-Creating dashboards, reports, and ad-hoc analysis, cycling, reading, piano,
-dancing, tinkering.
+Creating dashboards 📈, reports 📊, and ad-hoc analysis 📰, cycling 🚴, reading 📚, piano 🎹,
+dancing 💃, tinkering 🧰
 
 
 ## Employment
