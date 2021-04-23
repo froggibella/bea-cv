@@ -115,9 +115,9 @@ French
 
 ## Details
 
-> 📮 Schönburgstraße 22,
-> 12103 Berlin,
-> Germany
+📮 Schönburgstraße 22,
+12103 Berlin,
+Germany
 
 ☎️ +49 176 22 676 440
 
