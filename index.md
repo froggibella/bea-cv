@@ -7,11 +7,11 @@ title: Beatrice Hildebrandt
 BI/DWH Developer
 
 <div id="webaddress">
-✉️ <a href="beatrice.hildebrandt@gmail.com">beatrice.hildebrandt@gmail.com</a>
-👩‍💼 <a href="https://froggibella.github.io/bea-cv/">https://froggibella.github.io/bea-cv/</a>
-
+<a href="beatrice.hildebrandt@gmail.com">beatrice.hildebrandt@gmail.com</a>
 </div>
-
+<div id="webaddress">
+<a href="https://froggibella.github.io/bea-cv/">Curriculum Vitae</a>
+</div>
 
 ## Currently
 
@@ -158,4 +158,6 @@ Germany
 ### Nationality
 
 German
+
+
 
