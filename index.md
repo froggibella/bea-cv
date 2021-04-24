@@ -2,7 +2,7 @@
 layout: cv
 title: Beatrice Hildebrandt
 ---
-![Beatrice Hildebrandt](bea.jpg)
+![Beatrice Hildebrandt](ich.png)
 # Beatrice Hildebrandt
 BI/DWH Developer
 
@@ -21,8 +21,8 @@ Data Science, Business Analytics, and Data Warehousing (5 years experience)
 
 ### Profile
 
-Outgoing and detail-oriented, highly motivated Business Intelligence developer
-with ... __TODO: complete the sentence__
+Outgoing and detail-oriented, highly motivated Business Intelligence developer with 5 years of experience in business analytics and data warehousing.
+Proficient in creating dashboards, reports and ad-hoc analysis.
 
 ### Interests
 
@@ -84,7 +84,7 @@ __Robert Bosch GmbH, Nuremberg__
 SQL, Stored PRocedures
 
 `*********`
-Reporting Tools (Qlik, MSTR, etc.)
+Reporting Tools (Qlik, MSTR, DataStudio etc.)
 
 `*********`
 Git, Jira, ZenHub
@@ -132,5 +132,22 @@ German
 
 ## Education
 
-`1990 - 2017`
-__TODO: Add your Master's degree__
+`October 2014 – September 2016`
+__Technical University, Chemnitz__
+
+> Graduation: Master of Science
+
+Course of study: Computer Science for Humanities and Social Scientists 
+Specialisation: Database and web development
+Masterthesis: Rolling forecast based on monetary key performance indicators in e-commerce business
+Grade: 1.7
+
+`October 2009 – June 2013`
+__Otto-Friedlich University, Bamberg__
+
+> Graduation: Bachelor of Arts
+
+Course of study: Bachelor Soziology
+Specialisation: Ergonomics, labour market, labour organization 
+Grade: 2.2
+
