@@ -21,13 +21,48 @@ Data Science, Business Analytics, and Data Warehousing (5 years experience)
 
 ### Profile
 
-Outgoing and detail-oriented, highly motivated Business Intelligence developer with 5 years of experience in business analytics and data warehousing.
+Outgoing and detail-oriented, highly motivated Business Intelligence developer with 5 years of experience in Business Analytics and Data Warehousing.
 Proficient in creating dashboards, reports and ad-hoc analysis.
 
 ### Interests
 
 Creating dashboards 📈, reports 📊, and ad-hoc analysis 📰, cycling 🚴, reading 📚, piano 🎹,
 dancing 💃, tinkering 🧰
+
+
+## Skills
+
+`**********`
+SQL, Stored PRocedures
+
+`*********`
+Reporting Tools (Qlik, MSTR, DataStudio etc.)
+
+`*********`
+Git, Jira, ZenHub
+
+`********`
+Jupyter, Databricks
+
+`*******`
+Python (mainly Pandas)
+
+`******`
+R, Stata, SPSS
+
+`****`
+JS, PHP, C, Spark
+
+### Languages
+
+`**********`
+German
+
+`*******`
+English
+
+`*****`
+French
 
 
 ## Employment
@@ -78,39 +113,32 @@ __Robert Bosch GmbH, Nuremberg__
 
 - Departments: HR, Logistics, Controlling
 
-## Skills
 
-`**********`
-SQL, Stored PRocedures
+## Education
 
-`*********`
-Reporting Tools (Qlik, MSTR, DataStudio etc.)
+`October 2014 – September 2016`
+__Technical University, Chemnitz__
 
-`*********`
-Git, Jira, ZenHub
+> Graduation: Master of Science
 
-`********`
-Jupyter, Databricks
+Course of study: Computer Science for Humanities and Social Scientists
 
-`*******`
-Python (mainly Pandas)
+Specialisation: Database and web development
 
-`******`
-R, Stata, SPSS
+Masterthesis: Rolling forecast based on monetary key performance indicators in e-commerce business
 
-`****`
-JS, PHP, C, Spark
+Grade: 1.7
 
-### Languages
+`October 2009 – June 2013`
+__Otto-Friedlich University, Bamberg__
 
-`**********`
-German
+> Graduation: Bachelor of Arts
 
-`*******`
-English
+Course of study: Bachelor Soziology
 
-`*****`
-French
+Specialisation: Ergonomics, labour market, labour organization 
+
+Grade: 2.2
 
 
 ## Details
@@ -128,26 +156,4 @@ Germany
 ### Nationality
 
 German
-
-
-## Education
-
-`October 2014 – September 2016`
-__Technical University, Chemnitz__
-
-> Graduation: Master of Science
-
-Course of study: Computer Science for Humanities and Social Scientists 
-Specialisation: Database and web development
-Masterthesis: Rolling forecast based on monetary key performance indicators in e-commerce business
-Grade: 1.7
-
-`October 2009 – June 2013`
-__Otto-Friedlich University, Bamberg__
-
-> Graduation: Bachelor of Arts
-
-Course of study: Bachelor Soziology
-Specialisation: Ergonomics, labour market, labour organization 
-Grade: 2.2
 
