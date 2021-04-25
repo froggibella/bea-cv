@@ -8,7 +8,8 @@ BI/DWH Developer
 
 <div id="webaddress">
 <a href="beatrice.hildebrandt@gmail.com">beatrice.hildebrandt@gmail.com</a>
- <a> </a>
+
+
 <a href="https://froggibella.github.io/bea-cv/">Curriculum Vitae</a>
 </div>
 
@@ -123,7 +124,7 @@ __Robert Bosch GmbH, Nuremberg__
 `October 2014 – September 2016`
 __Master of Science__
 
-> Course of study: Computer Science for Graduates in the Humanities or Social Science
+> Computer Science for Graduates in the Humanities or Social Science
 
 Technical University, Chemnitz
 
@@ -136,7 +137,7 @@ Grade: 1.7
 `October 2009 – June 2013`
 __Bachelor of Arts__
 
-> Course of study: Soziology
+> Soziology
  
 Otto-Friedlich University, Bamberg
 
