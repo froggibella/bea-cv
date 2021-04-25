@@ -28,11 +28,11 @@ Data Science, Business Analytics, and Data Warehousing (5 years experience)
 ### Profile
 
 Outgoing and detail-oriented, highly motivated Business Intelligence developer with 5 years of experience in Business Analytics and Data Warehousing.
-Proficient in creating dashboards, ETL-processes, reports and ad-hoc analysis.
+Proficient in creating dashboards 📈, ETL-processes ↪️ , reports 📊 and ad-hoc analysis 📰.
 
 ### Interests
 
-Creating dashboards 📈, reports 📊, and ad-hoc analysis 📰, cycling 🚴, reading 📚, piano 🎹,
+statistics 📈, cycling 🚴, reading 📚, piano 🎹,
 dancing 💃, tinkering 🧰
 
 
