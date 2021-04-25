@@ -123,9 +123,9 @@ __Robert Bosch GmbH, Nuremberg__
 ## Education
 
 `October 2014 – September 2016`
-__Master of Science__
+__Computer Science for Graduates in the Humanities or Social Science__
 
-> Computer Science for Graduates in the Humanities or Social Science
+> Master of Science
 
 Technical University, Chemnitz
 
@@ -136,16 +136,16 @@ Masterthesis: Rolling forecast based on monetary key performance indicators in e
 Grade: 1.7
 
 `April 2014 – September 2014`
-__Master of Science__
+__Statistics__
 
-> Statistics
+> Master of Science
 
 Otto-von-Guericke University, Magdeburg
 
 `October 2009 – June 2013`
-__Bachelor of Arts__
+__Soziology__
 
-> Soziology
+> Bachelor of Arts
  
 Otto-Friedlich University, Bamberg
 
