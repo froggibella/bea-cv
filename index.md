@@ -8,10 +8,10 @@ BI/DWH Developer
 
 <div id="webaddress">
 <a href="beatrice.hildebrandt@gmail.com">beatrice.hildebrandt@gmail.com</a>
-</div>
+
 
 [Curriculum Vitae](https://froggibella.github.io/bea-cv/)
-
+</div>
 
 ## Currently
 
@@ -119,26 +119,26 @@ __Robert Bosch GmbH, Nuremberg__
 ## Education
 
 `October 2014 – September 2016`
-__Master Computer Science for Humanities and Social Scientists__
+__Master of Science__
 
-> Graduation: Master of Science
+> Course of study: Computer Science for Graduates in the Humanities or Social Science
 
 Technical University, Chemnitz
 
-Specialisation: Database and web development
+Specialization: Database and web development
 
 Masterthesis: Rolling forecast based on monetary key performance indicators in e-commerce business
 
 Grade: 1.7
 
 `October 2009 – June 2013`
-__Bachelor Soziology__
+__Bachelor of Arts__
 
-> Graduation: Bachelor of Arts
+> Course of study: Soziology
  
 Otto-Friedlich University, Bamberg
 
-Specialisation: Ergonomics, labour market, labour organization 
+Specialization: Ergonomics, labour market, labour organization 
 
 Grade: 2.2
 
