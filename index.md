@@ -119,11 +119,11 @@ __Robert Bosch GmbH, Nuremberg__
 ## Education
 
 `October 2014 – September 2016`
-__Technical University, Chemnitz__
+__Master Computer Science for Humanities and Social Scientists__
 
 > Graduation: Master of Science
 
-Course of study: Computer Science for Humanities and Social Scientists
+Technical University, Chemnitz
 
 Specialisation: Database and web development
 
@@ -132,11 +132,11 @@ Masterthesis: Rolling forecast based on monetary key performance indicators in e
 Grade: 1.7
 
 `October 2009 – June 2013`
-__Otto-Friedlich University, Bamberg__
+__Bachelor Soziology__
 
 > Graduation: Bachelor of Arts
-
-Course of study: Bachelor Soziology
+ 
+Otto-Friedlich University, Bamberg
 
 Specialisation: Ergonomics, labour market, labour organization 
 
