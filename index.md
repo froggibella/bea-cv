@@ -135,6 +135,13 @@ Masterthesis: Rolling forecast based on monetary key performance indicators in e
 
 Grade: 1.7
 
+`April 2014 – September 2014`
+__Master of Science__
+
+> Statistics
+
+Otto-von-Guericke University, Magdeburg
+
 `October 2009 – June 2013`
 __Bachelor of Arts__
 
