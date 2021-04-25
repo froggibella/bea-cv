@@ -2,7 +2,7 @@
 layout: cv
 title: Beatrice Hildebrandt
 ---
-![Beatrice Hildebrandt](BeatriceHildebrandt.jpg)
+![Beatrice Hildebrandt](BeatriceHildebrandt.jpeg)
 # Beatrice Hildebrandt
 BI/DWH Developer
 
