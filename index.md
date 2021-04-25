@@ -123,7 +123,7 @@ __Robert Bosch GmbH, Nuremberg__
 ## Education
 
 `October 2014 – September 2016`
-__Computer Science__
+__Computer Science__<br/>
 __for Graduates in the Humanities or Social Science__
 
 > Master of Science
