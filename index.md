@@ -8,10 +8,12 @@ BI/DWH Developer
 
 <div id="webaddress">
 <a href="beatrice.hildebrandt@gmail.com">beatrice.hildebrandt@gmail.com</a>
-
+ <a> </a>
+<a href="https://froggibella.github.io/bea-cv/">Curriculum Vitae</a>
+</div>
 
 [Curriculum Vitae](https://froggibella.github.io/bea-cv/)
-</div>
+
 
 ## Currently
 
