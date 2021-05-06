@@ -146,7 +146,7 @@ Otto-von-Guericke University, Magdeburg
 
 
 `October 2009 – June 2013`
-__Soziology__
+__Sociology__
 
 > Bachelor of Arts
  
