@@ -4,7 +4,7 @@ title: Beatrice Hildebrandt
 ---
 ![Beatrice Hildebrandt](BeatriceHildebrandt.jpeg)
 # Beatrice Hildebrandt
-BI/DWH Developer
+Data Analyst
 
 <div id="webaddress">
 <a href="beatrice.hildebrandt@gmail.com">beatrice.hildebrandt@gmail.com</a>
@@ -27,7 +27,7 @@ Data Science, Business Analytics, and Data Warehousing (6 years experience)
 
 ### Profile
 
-Outgoing and detail-oriented, highly motivated Business Intelligence developer with 6 years of experience in Business Analytics and Data Warehousing.
+Outgoing and detail-oriented, highly motivated Data Analyst with 6 years of experience in Business Analytics and Data Warehousing.
 Proficient in creating dashboards 📈, ETL-processes ↪️, reports 📊 and ad-hoc analysis 📰.
 
 ### Interests
