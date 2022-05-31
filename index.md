@@ -23,17 +23,17 @@ Data Analyst at Zalando Marketing Services GmbH, Berlin
 
 ### Specialized in
 
-Data Science, Business Analytics, and Data Warehousing (5 years experience)
+Data Science, Business Analytics, and Data Warehousing (6 years experience)
 
 ### Profile
 
-Outgoing and detail-oriented, highly motivated Business Intelligence developer with 5 years of experience in Business Analytics and Data Warehousing.
+Outgoing and detail-oriented, highly motivated Business Intelligence developer with 6 years of experience in Business Analytics and Data Warehousing.
 Proficient in creating dashboards 📈, ETL-processes ↪️, reports 📊 and ad-hoc analysis 📰.
 
 ### Interests
 
-statistics 📈, cycling 🚴, reading 📚, piano 🎹,
-dancing 💃, tinkering 🧰
+statistics 📈, cycling 🚴, reading 📚,
+dancing 💃,  piano 🎹
 
 
 ## Skills
@@ -83,6 +83,14 @@ __Zalando Marketing Services GmbH, Berlin__
 - Process data and generate insights for various use cases
 - Stakeholder-management
 - Implement self-service data solutions
+
+`June 2021 - December 2021`
+__OMICRON electronics GmbH, Erlangen__
+
+> Software Engineer
+
+- Research on potential monitoring tools
+- Create dashboard as part of a surveillance system to track and monitor alerts and potential cyber attacks in substations
 
 `December 2018 - May 2019`
 __data4life gGmbH, Berlin__
