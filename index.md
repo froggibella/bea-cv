@@ -4,7 +4,7 @@ title: Beatrice Hildebrandt
 ---
 ![Beatrice Hildebrandt](BeatriceHildebrandt.jpeg)
 # Beatrice Hildebrandt
-Data Analyst
+Data Engineer and Analyst
 
 <div id="webaddress">
 <a href="beatrice.hildebrandt@gmail.com">beatrice.hildebrandt@gmail.com</a>
@@ -17,29 +17,24 @@ Data Analyst
 </div>
 
 
-## Currently
-
-Data Analyst at Zalando Marketing Services GmbH, Berlin
-
 ### Specialized in
 
-Data Science, Business Analytics, and Data Warehousing (6 years experience)
+Data Engineering, BI, Data Analytics, Reporting, and Data Warehousing (10 years experience)
 
 ### Profile
 
-Outgoing and detail-oriented, highly motivated Data Analyst with 6 years of experience in Business Analytics and Data Warehousing.
+Outgoing and detail-oriented, highly motivated Data Expert with 10 years of experience in Business Intelligence, Analytics and Data Warehousing.
 Proficient in creating dashboards 📈, ETL-processes ↪️, reports 📊 and ad-hoc analysis 📰.
 
 ### Interests
 
-statistics 📈, cycling 🚴, reading 📚,
-dancing 💃,  piano 🎹
+dancing 💃, childcare 👶, statistics 📈, cycling 🚴, music 🎹
 
 
 ## Skills
 
 `**********`
-SQL, Stored Procedures
+Python (mainly Pandas), Pyspark, SQL
 
 `*********`
 Reporting Tools (Qlik, MSTR, DataStudio etc.)
@@ -50,14 +45,11 @@ Git, Jira, ZenHub
 `********`
 Jupyter, Databricks, Airflow, S3
 
-`*******`
-Python (mainly Pandas)
-
 `******`
-R, Stata, SPSS
+R, Stata, SPSS, FastAPI
 
 `****`
-JS, PHP, C, Spark
+JS, PHP, C
 
 ### Languages
 
@@ -73,10 +65,26 @@ French
 
 ## Employment
 
-`June 2019 - present`
+`January 2026`
+__Move to Freiburg__
+
+
+`June 2019 - November 2025`
 __Zalando Marketing Services GmbH, Berlin__
 
-> Data Analyst
+> Data Engineer (until December 2025)
+
+- implementation and optimization of backend services
+- load testing and incident management
+- automate tracking updates and create reporting for product teams
+- Enhance data pipelines and algorithms for better campaign management
+- Refactor ETL processes
+- Improve data quality and system robustness by creating integrity checks
+- Enabled better internal testing and validation by synthetic data generation for staging environments
+- Contributed to the technical design, data modeling, and analysis for strategic projects such as Budget Recommendations and Article Performance Monitoring
+- Collaborated with cross-functional teams to align technical implementation with business objectives
+
+> Data Analyst (until August 2022)
 
 - Create dashboards for brand partners
 - Automate data-pipelines
@@ -167,8 +175,8 @@ Grade: 2.2
 
 ## Details
 
-📮 Schönburgstraße 22,
-12103 Berlin,
+📮 Bertha-von-Suttner-Str. 6,
+79111 Freiburg,
 Germany
 
 ☎️ +49 176 22 676 440
