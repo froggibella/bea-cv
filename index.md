@@ -68,11 +68,10 @@ French
 `January 2026`
 __Move to Freiburg__
 
-
-`June 2019 - November 2025`
+`September 2022 - November 2025`
 __Zalando Marketing Services GmbH, Berlin__
 
-> Data Engineer (until December 2025)
+> Data Engineer
 
 - implementation and optimization of backend services
 - load testing and incident management
@@ -84,7 +83,10 @@ __Zalando Marketing Services GmbH, Berlin__
 - Contributed to the technical design, data modeling, and analysis for strategic projects such as Budget Recommendations and Article Performance Monitoring
 - Collaborated with cross-functional teams to align technical implementation with business objectives
 
-> Data Analyst (until August 2022)
+`June 2019 - August 2022`
+__Zalando Marketing Services GmbH, Berlin__
+
+> Data Analyst
 
 - Create dashboards for brand partners
 - Automate data-pipelines
