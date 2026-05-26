@@ -65,8 +65,8 @@ French
 
 ## Employment
 
-`January 2026`
-__Move to Freiburg__
+`December 2025/January 2026`
+__Moving to Freiburg__
 
 `September 2022 - November 2025`
 __Zalando Marketing Services GmbH, Berlin__
